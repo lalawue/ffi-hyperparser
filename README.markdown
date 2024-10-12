@@ -1,3 +1,8 @@
+
+Deprecated, replaced by https://github.com/lalawue/ffi-http1-session
+
+----
+
 Hyperparser - LuaJIT HTTP parser (based on [http-parser](https://github.com/nodejs/http-parser))
 
 It runs on *BSD and Linux. Windows was not tested.
